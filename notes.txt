@@ -1,0 +1,13 @@
+Steps to do: 
+1 -> navigate to Coding\MyAutoProjects
+2 -> Create Folder with project name
+3 -> Navigate into Folder
+4 -> git init
+5 -> Go to Github and create the repository
+6 -> copy the remote
+7 -> add remote to my local Folder
+8 -> Create a readme file
+9 -> git add
+10 -> git commit
+11 -> git push
+12 -> code . 
